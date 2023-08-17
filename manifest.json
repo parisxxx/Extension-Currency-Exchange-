@@ -1,0 +1,11 @@
+{
+    "name": "Currency exchange rates",
+    "version": "1",
+    "manifest_version": 3,
+    "description": "Swiftly Swap Currencies: Your Instant Currency Conversion Extension!",
+    "action":
+    {
+        "default icon": "icon.jpg",
+        "default popup":"index.html"
+    }
+}
